@@ -34,11 +34,11 @@ In the meta-organization, organizations can leverage large and varied data from 
 
 By leveraging core competencies and information from other member-organizations, organizations can trigger innovation in their respective areas and avoid asymmetric learning opportunities because coordination costs are lowered and information is readily shared and stored in the Commons. 
 
-### Adaptive Relationships
+### Flexible Relationships
 
 In the meta-organization, organizations are not forced into a one-size-fits-all type of relationship with other member-organizations, thereby allowing the relationships to adapt to real-world conditions. 
 
-### Complexity
+### Adaptive System for Complexity
 
 In the meta-organization, we accept that organizations exist in a complex system and act accordingly to help cope with complexity wherever it arises by leveraging the core competencies of member-organizations, and sharing information among member-organizations.
 
