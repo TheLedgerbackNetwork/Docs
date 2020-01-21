@@ -8,11 +8,11 @@ Follow our newsletter, the Ledgerback Cooperative Newsletter, on Substack to kee
 
 ## Summary
 
-| Emails | Social Media | Newsletter | Blog | Domains |
-| :--- | :--- | :--- | :--- | :--- |
-| hello@ledgerback.coop | [Twitter](https://twitter.com/ledgerback) | [Ledgerback Cooperative Newsletter](https://ledgerback.substack.com/) | Medium | www.ledgerback.coop |
-| ledgerback@gmail.com | Facebook |  |  |  |
-| researchcoop@ledgerback.coop | Instagram |  |  |  |
+| Emails | Social Media | Newsletter | Blog | Domains | Github |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| hello@ledgerback.coop | [Twitter](https://twitter.com/ledgerback) | [Ledgerback Cooperative Newsletter](https://ledgerback.substack.com/) | Medium | www.ledgerback.coop | [Meta-organization](https://github.com/TheLedgerbackNetwork) |
+| ledgerback@gmail.com | Facebook |  |  |  |  |
+| researchcoop@ledgerback.coop | Instagram |  |  |  |  |
 
 
 
