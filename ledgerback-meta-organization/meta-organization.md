@@ -42,10 +42,6 @@ In the meta-organization, organizations are not forced into a one-size-fits-all 
 
 In the meta-organization, we accept that organizations exist in a complex system and act accordingly to help cope with complexity wherever it arises by leveraging the core competencies of member-organizations, and sharing information among member-organizations.
 
-
-
-
-
 ## Why make a Meta-organization? 
 
 One reason why a meta-organization is needed in this transient time as we move from Web 2.0 to Web 3.0 and from the platform economy to the token economy is that to prevent the grievances and misgivings of the legacy systems, we need to develop a base layer of systems that embody cooperative principles and values and governance so that we can avoid centralization, and to ensure that individuals are empowered within the Web 3.0 system through p2p interaction to make changes within the system.
