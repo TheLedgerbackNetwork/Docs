@@ -20,7 +20,7 @@ In the meta-organization, the organizations behave in a horizontal and egalitari
 
 ### Risk Pooling & Combined Resources
 
-In the meta-organization, organizations can balance risk among each other while combining resources such that organizations can pounce on greater market opportunities without further investment.
+In the meta-organization, organizations can balance risk among each other while combining resources such that organizations can pounce on greater market opportunities without further investment in the organization.
 
 ### Leverage Competencies
 
