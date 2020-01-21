@@ -36,7 +36,11 @@ By leveraging core competencies and information from other member-organizations,
 
 ### Adaptive Relationships
 
-In the meta-organization, organizations are not forced into a one-size-fits-all type of relationship with other organizations, thereby allowing the relationship to adapt to market conditions
+In the meta-organization, organizations are not forced into a one-size-fits-all type of relationship with other organizations, thereby allowing the relationship to adapt to real-world conditions. 
+
+### Complexity
+
+In the meta-organization, we accept that organizations exist in a complex system and act accordingly to help cope with complexity wherever it arises by leveraging the core competencies and information of member-organizations.
 
 
 
