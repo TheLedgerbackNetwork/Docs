@@ -6,13 +6,35 @@ A meta-organization is an "organization comprised of a network of firms \[and/\]
 
 The Ledgerback meta-organization model is meant to proliferate and unite cooperative organizations around a common set of principles and values, practices, and a system-level goal, while infrastructure and vital resources \(i.e., the commons\) is meant to be created and distributed to member organizations to speed up their operations and achieve their goals in a peer production manner.
 
-In the meta-organization, the system-level goal is to push systems innovation \(governance, economics, infrastructure, knowledge-sharing, enterprises, innovation, practices, thinking, etc.\) that will actuate our principles and values.
+In the meta-organization, the system-level goal is to push systems innovation \(governance, economics, infrastructure, knowledge-sharing, enterprises, innovation, practices, thinking, etc.\) through the creation and usage of models, systems, thinking and mechanisms that will actuate our principles and values.
 
 In the meta-organization, the organizations behave in a horizontal and egalitarian relationship such that all organizations are treated equally, and no organization has greater authority than another, i.e., a system-wide cooperative governance structure.
 
 Primarily, the organizational structure will be cooperatives, social enterprises, trusts and nonprofits. 
 
-An additional benefit of the Meta-organization is the ability to pool risk among all of the organizations such that organizations can work hard toward the system-wide goal and if one organization does well, then every organization also receives a benefit. 
+## Advantages of Meta-Organization Model
+
+### Horizontal, Flattened Structure
+
+In the meta-organization, the organizations behave in a horizontal and egalitarian relationship such that all organizations are treated equally, and no organization has greater authority than another, i.e., a system-wide cooperative governance structure.
+
+### Risk Pooling & Combined Resources
+
+In the meta-organization, organizations can balance risk among each other while combining resources such that organizations can pounce on greater market opportunities without further investment.
+
+### Leverage Competencies
+
+In the meta-organization, organizations can leverage the core competencies of other member-organizations to quickly pounce on business opportunities without having to develop such competencies themselves. 
+
+### Data & Information Sharing
+
+In the meta-organization, organizations can leverage large and varied data from other member-organizations, and share critical information with member-organizations to help improve productivity while not worrying about absence of trust o
+
+### Faster Innovation 
+
+By leveraging core competencies and information from other member-organizations, organizations can trigger innovation in their respective areas and avoid asymmetric learning opportunities because coordination costs are lowered and information is readily shared and stored in the Commons. 
+
+
 
 ## Why make a Meta-organization? 
 
