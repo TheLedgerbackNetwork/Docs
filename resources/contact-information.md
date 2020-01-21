@@ -10,7 +10,7 @@ Follow our newsletter, the Ledgerback Cooperative Newsletter, on Substack to kee
 
 | Emails | Social Media | Newsletter | Blog | Domains | Github |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| hello@ledgerback.coop | [Twitter](https://twitter.com/ledgerback) | [Ledgerback Cooperative Newsletter](https://ledgerback.substack.com/) | Medium | www.ledgerback.coop | [Meta-organization](https://github.com/TheLedgerbackNetwork) |
+| hello@ledgerback.coop | [Twitter](https://twitter.com/ledgerback) | [Ledgerback Cooperative Newsletter](https://ledgerback.substack.com/) | [Medium](https://medium.com/@ledgerback) | www.ledgerback.coop | [Meta-organization](https://github.com/TheLedgerbackNetwork) |
 | ledgerback@gmail.com | Facebook |  |  |  |  |
 | researchcoop@ledgerback.coop | Instagram |  |  |  |  |
 
