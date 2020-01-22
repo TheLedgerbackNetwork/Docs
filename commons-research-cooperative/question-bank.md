@@ -57,6 +57,12 @@ Here you will find a list of research questions our members have generated cover
       <td style="text-align:left">Organizational Technology; Distributed Governance; Platform Cooperativism;
         Business Models</td>
     </tr>
+    <tr>
+      <td style="text-align:left">Is it possible to create a directed acyclic graph (DAG) based ledger that
+        will work with an interoperable blockchain framework, e.g., Cosmos?</td>
+      <td
+      style="text-align:left">Blockchain Architecture</td>
+    </tr>
   </tbody>
 </table>
 
