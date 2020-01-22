@@ -63,6 +63,11 @@ Here you will find a list of research questions our members have generated cover
       <td
       style="text-align:left">Blockchain Architecture</td>
     </tr>
+    <tr>
+      <td style="text-align:left">How to avoid the rise of oligarchies in decentralized governance and democratic
+        membership organizations?</td>
+      <td style="text-align:left">Platform Cooperativism; Distributed Governance</td>
+    </tr>
   </tbody>
 </table>
 
