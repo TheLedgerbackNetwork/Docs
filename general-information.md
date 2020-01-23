@@ -84,6 +84,7 @@ Through their inspiration and guidance, we have been able to substantially accel
 * ConcourseQ
 * Mondragon Cooperative
 * Stanford Social Innovation Review
+* Open Source Drug Discovery
 
 ## Governance Frameworks 
 
