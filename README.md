@@ -1,7 +1,7 @@
 ---
 description: >-
   This Gitbook covers the "static" and introductory information about the
-  Ledgerback Meta-organization
+  Ledgerback Meta-organization. Expect frequent updates
 ---
 
 # Ledgerback Handbook
