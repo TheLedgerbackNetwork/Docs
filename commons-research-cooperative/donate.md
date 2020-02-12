@@ -2,7 +2,7 @@
 
 You can always donate to the LCRC to help fund our research, education and innovation efforts and to make this space more accessible, understandable and usable to people all across the world.
 
-We accept donations on our Open Collective [page](https://opencollective.com/ledgerbackcoop).
+We accept donations on our [Open Collective](https://opencollective.com/ledgerbackcoop) [page](https://opencollective.com/ledgerbackcoop).
 
 Link: [https://opencollective.com/ledgerbackcoop](https://opencollective.com/ledgerbackcoop)
 

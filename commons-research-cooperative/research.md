@@ -1,65 +1,74 @@
 # Research
 
-Our major production approach to research is the production of original social and technical research, toolkits, analyses, compilations and data that cover decentralized and open thinking and systems \(DOTS\) topics.
+## Research Themes
 
-DOTS topics include, but are not limited to:
+LCRC has been organized into 6 research groups based on our research themes:
 
-* blockchain, 
-* smart contracts, 
-* commons-based peer production, 
-* mechanism design, 
-* game theory,  the commons, 
-* social enterprises and nonprofits, 
-* organizational theory, 
-* peer processes,
-* collaborative economy,
-* emerging markets,
-* emerging technologies,
-* identity management,
-* data privacy, 
-* decision-making,
-* governance, 
-* token engineering,
-* cryptoeconomics,
-* Decentralized Finance \(DeFi\),
-* Decentralized Privacy \(DePi\),
-* Distributed Data Storage,
-* Internet of Things,
-* Artificial Intelligence,
-* Digital Identity \(DID\),
-* Federated Social Networks,
-* innovation, and
-* platform cooperativism.
+* Collective Action and Commoning
+* Identity and Data Sovereignty
+* Emerging Technologies
+* Digital Economy
+* Mechanism Design
+* Knowledge Production
 
-In the research process, we aim to use publicly-accessible resources \(i.e., not behind a paywall\) s often as possible and crowdsource knowledge from diverse people and disciplines to gain a broader understanding of the area we are researching.
+## Research Programmes
 
-Ultimately, our research productions will be released on an open science basis, such that production \(and associated data\) are easily accessible, adaptable and reusable, with attribution.
+The LCRC is organized into 6 research programmes
 
-## Previous Research 
+1. Solidarity Project
+2. Open Finance
+3. Platform Cooperativism
+4. Cryptoeconomics
+5. Emerging Technologies
+6. Knowledge Commons
+
+### Solidarity Project 
+
+The Solidarity Project programme is focused on distributed governance, organizational technology, organization design, digital democracy, and other related topics.
+
+### Open Finance
+
+The Open Finance programme is focused on alternative finance, decentralized finance, open finance, digital money, community currencies, social money, and other related topics.
+
+### Platform Cooperativism
+
+The Platform Cooperativism programme is focused on cooperativism in the digital economy, data sovereignty, identity sovereignty, commons-based peer production, and other related topics.
+
+### Cryptoeconomics
+
+The Cryptoeconomics programme is focused on cryptoeconomic protocols, mechanism design, game theory, data science, network analysis, systems innovation, and other related topics.
+
+### Emerging Technologies 
+
+The Emerging Technologies programme is focused on blockchain use cases, proof-of-concepts, cryptography, applied technologies, and other related topics.
+
+### Knowledge Commons
+
+The Knowledge Commons programme is focused on open science, open data, open access, knowledge infrastructure, peer production, scholarly commons, and other related topics.
+
+## Articles
 
 All the articles below may be found on our [Medium Blog](https://medium.com/@ledgerback).
 
-### Blockchain \(a/k/a Distributed Ledgers\)
+### Blockchain \(aka Distributed Ledgers\)
 
-Energy:
+#### Energy:
 
 * _Trading Energy: Will Blockchain disrupt the energy industry?_
 
-Employee Loyalty Programs:
+#### Employee Loyalty Programs:
 
 * _Blockchain and Employee Loyalty Programs: Has PayPal shown the way forward?_
 * _Employee Loyalty Programs: How does blockchain add value?_
 
-Education:
+#### Education:
 
 * _The Age of Digital Diplomas: Is the education sector leading the way in blockchain adoption?_
 * _The Age of Digital Diplomas: Will Blockcerts become the global standard?_
 
-Music industry:
+#### Creative Industries:
 
 {% file src="../.gitbook/assets/a-preliminary-review-of-blockchain-in-the-music-industry.pdf" caption="A Preliminary Review of Blockchain in the Music Industry" %}
-
-
 
 ### Federated Social Networks \("Fediverse"\)
 
@@ -69,11 +78,11 @@ Mastodon Federated Social Network:
 
 ### Distributed Governance
 
-Community Intellectual Property:
+#### Community Intellectual Property
 
 * _Collective Trademarks for Blockchain Communities?_
 
-Community Protocols:
+#### Community Documents
 
 * _We the Nodes: Can Constitutions Unite Blockchain Communities?_
 
@@ -81,9 +90,9 @@ Community Protocols:
 
 * [My Data! My Rules](https://medium.com/the-backers/my-data-my-rules-60890ffa0e56)
 
-### Other Emerging Technologies and Markets
-
-Micro-mobility:
+### Micro-mobility
 
 * \_\_[_The Electric Scooter Uprising_](https://medium.com/amalgam-ledgerback/article-5-the-electric-scooter-uprising-736e3c2ba065?source=collection_home---6------3-----------------------)\_\_
+
+\_\_
 

@@ -31,14 +31,15 @@ Ledgerback's principles and values are inspired by open communities and cooperat
 The base principles and values that apply across the network are:
 
 * Decentralization is a spectrum, with our goal to continually decentralize our processes
-* Every member should feel empowered to run the organization
+* Member Empowerment
 * No discriminatory behavior on the basis of race, sex, age, ethnicity, national origin, disability, 
 * We are in constant development
 * Transparency and Openness is the default
 * Complexity, uncertainty, and ambiguity are natural occurrences
 * One-size fits all approaches are unlikely to be helpful
-* Democratic member control
+* Egalitarianism
 * Open and voluntary membership
+* Democratic member control
 * The Commons \(knowledge, documentation, tools, etc.\) should be freely accessible to members
 
 Our principles and values will continue to evolve as time goes on.
@@ -84,7 +85,10 @@ Through their inspiration and guidance, we have been able to substantially accel
 * ConcourseQ
 * Mondragon Cooperative
 * Stanford Social Innovation Review
+* Morning Star
 * Open Source Drug Discovery
+* Stephanie Asao
+* Co-op Cincy
 
 ## Governance Frameworks 
 

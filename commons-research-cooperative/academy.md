@@ -1,4 +1,4 @@
-# Academy
+# Education
 
 ## Blockchain Basics <a id="blockchain-basics"></a>
 
