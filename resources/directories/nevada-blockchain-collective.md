@@ -1,6 +1,6 @@
 # Nevada Blockchain Collective
 
-Here you may find a \(growing\) directory of blockchain-related organizations \(based and/or operating in the State of Nevada, United States of America\), meetups, individuals, conferences, government agencies, and state laws.
+Here you may find a \(growing\) directory of blockchain-related organizations \(based and/or operating in the State of Nevada, USA\), meetups, individuals, conferences, government agencies, and state laws.
 
 ## Organizations
 
