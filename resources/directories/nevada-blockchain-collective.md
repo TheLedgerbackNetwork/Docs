@@ -18,7 +18,7 @@ Here you may find a \(growing\) directory of blockchain-related organizations \(
 | Multiventures, LLC | Venture Firm |  |  |
 | Cafe Cryptoria | Coffee Shop |  | [http://cafecryptoria.com/](http://cafecryptoria.com/) |
 | Hilt Club | Bitcoin ATM |  | [https://www.hiltventures.com/hilt-club](https://www.hiltventures.com/hilt-club) |
-| Coincierge Club | Hospitality | Darryl DiPietro |  |
+| Coincierge Club | Hospitality | Darryl DiPietro | [https://coincierge.club/](https://coincierge.club/) |
 | Bob's Repair | Services |  |  |
 | Integra Ledger | Legal |  | [https://integraledger.com/](https://integraledger.com/) |
 | Flote | Social Network |  | [http://flote.app/](http://flote.app/) |
@@ -26,6 +26,7 @@ Here you may find a \(growing\) directory of blockchain-related organizations \(
 | Blockavailability | Real Estate |  |  |
 | Our Music Festival | Music-related Events |  | [https://omf.io/](https://omf.io/) |
 | Edge Wallet | Cryptocurrency Wallets |  | [https://edge.app/](https://edge.app/) |
+| Tealet | Direct trade tea network |  | [http://tealet.com/teastudio](http://tealet.com/teastudio) |
 
 ## Meetups
 
