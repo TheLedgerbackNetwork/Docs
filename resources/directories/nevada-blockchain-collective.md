@@ -15,11 +15,11 @@ Here you may find a \(growing\) directory of blockchain-related organizations \(
 | Nevada Blockchain Association | Industry Advocacy |  | [https://nvblockchain.org/home/](https://nvblockchain.org/home/) |
 | Ledgerback | Research Center |  |  |
 | Tokes | Cannabis Logistics |  | [https://tokesplatform.org/](https://tokesplatform.org/) |
-| Multiventures, LLC | Venture Firm |  |  |
+| Multiventures, LLC | Venture Firm |  | [https://multichain.ventures/](https://multichain.ventures/) |
 | Cafe Cryptoria | Coffee Shop |  | [http://cafecryptoria.com/](http://cafecryptoria.com/) |
-| Hilt Club | Bitcoin ATM |  | [https://www.hiltventures.com/hilt-club](https://www.hiltventures.com/hilt-club) |
+| Hilt Ventures \("Hilt Club"\) | Bitcoin ATM |  | [https://www.hiltventures.com/hilt-club](https://www.hiltventures.com/hilt-club) |
 | Coincierge Club | Hospitality | Darryl DiPietro | [https://coincierge.club/](https://coincierge.club/) |
-| Bob's Repair | Services |  |  |
+| Bob's Repair | Services |  | [https://bobsrepair.com/](https://bobsrepair.com/) |
 | Integra Ledger | Legal |  | [https://integraledger.com/](https://integraledger.com/) |
 | Flote | Social Network |  | [http://flote.app/](http://flote.app/) |
 | SoMee | Social Network |  | [https://somee.social/](https://somee.social/) |
