@@ -52,43 +52,44 @@ Through their inspiration and guidance, we have been able to substantially accel
 
 ### Inspirations
 
-* Sensorica
-* Ouishare
-* P2P Foundation 
-* Nexus Mutual 
-* Decred
-* Santa Fe Institute
-* Tokens Agora Meetup Group \(Defunct\)
-* Russell Harkanson
-* Stephanie Asao
-* RChain 
-* Resonate
-* MakerDAO
-* Althea Mesh
-* Matt Heck
-* Jessie J
-* CoinFlip
-* Ewa Fabian
-* Aragon
-* Cosmos
-* The Ready
-* The Co-oplaw
-* Enspiral
-* The Catalan Integral Cooperative
-* Nathan Schneider
-* Michael Bauwens 
-* Backfeed
-* Elinor Ostrom
-* RadicalxChange
-* P2PModels
-* Max Planck Institute
-* ConcourseQ
-* Mondragon Cooperative
-* Stanford Social Innovation Review
-* Morning Star
-* Open Source Drug Discovery
-* Stephanie Asao
-* Co-op Cincy
+* **Sensorica**
+* **Ouishare**
+* **P2P Foundation** 
+* **Nexus Mutual** 
+* **Decred**
+* **Santa Fe Institute**
+* **Tokens Agora Meetup Group \(Defunct\)**
+* **Russell Harkanson**
+* **Stephanie Asao**
+* **RChain** 
+* **Resonate**
+* **MakerDAO**
+* **Althea Mesh**
+* **Matt Heck**
+* **Jessie J**
+* **CoinFlip**
+* **Ewa Fabian**
+* **Aragon**
+* **Cosmos**
+* **The Ready**
+* **The Co-oplaw**
+* **Enspiral**
+* **The Catalan Integral Cooperative**
+* **Nathan Schneider**
+* **Michael Bauwens** 
+* **Backfeed**
+* **Elinor Ostrom**
+* **RadicalxChange**
+* **P2PModels**
+* **Max Planck Institute**
+* **ConcourseQ**
+* **Mondragon Cooperative**
+* **Stanford Social Innovation Review**
+* **Morning Star**
+* **Open Source Drug Discovery**
+* **Stephanie Asao**
+* **Co-op Cincy**
+* **Chôra Foundation**
 
 ## Governance Frameworks 
 
