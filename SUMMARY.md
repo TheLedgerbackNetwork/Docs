@@ -18,7 +18,7 @@
 * [Mission](ledgerback-meta-organization/mission.md)
 * [Commons](ledgerback-meta-organization/cooperative-membership.md)
 
-## Commons Research Cooperative
+## Digital Commons Research Cooperative <a id="commons-research-cooperative"></a>
 
 * [Co-operative](commons-research-cooperative/independent-research-institute.md)
 * [Services](commons-research-cooperative/services.md)
